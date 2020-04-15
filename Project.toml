@@ -15,7 +15,7 @@ StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
 
 [compat]
 ColorTypes = "0.7, 0.8, 0.9, 0.10"
-FileIO = "1"
+FileIO = "1.2.2"
 FixedPointNumbers = "0.6, 0.7, 0.8"
 ImageCore = "0.7, 0.8"
 ProtoBuf = "0.7, 0.8"
